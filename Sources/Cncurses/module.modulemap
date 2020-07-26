@@ -1,0 +1,5 @@
+module Cncurses {
+    header "../../Headers/ncurses-bridging-header.h"
+    link "ncurses"
+    export *
+}
